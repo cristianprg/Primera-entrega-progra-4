@@ -1,9 +1,11 @@
 public class GestionInventario {
 
     public static void main(String[] args) {
-        UsuarioServicio newServicio = new UsuarioServicio();
+        UsuarioServicio usuarioServicio = new UsuarioServicio();
+        ProductoServicio productoServicio = new ProductoServicio(new ProductoRepositorio());
+        ProveedorServicio proveedorServicio = new ProveedorServicio(new ProveedorRepositorio());
         
-        newServicio.pantallaLogin();
+        usuarioServicio.iniciarLogin(productoServicio, proveedorServicio);
     }
     
 }

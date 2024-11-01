@@ -1,3 +1,5 @@
+
+
 public class Usuario {
     private int id;
     private String nombre, apellido, tipoDocumentoIdentidad, numeroDocumentoIdentidad, direccion, correoElectronico, contrasena, telefono;
