@@ -3,7 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/crise/Desktop/GestionInventario/src/UsuarioServicio.java</file>
+            <file>file:/C:/Users/crise/Documents/ING_SISTEMAS/Progra%20IV/Primer%20entrgable/GestionInventario/src/clasesBase/Movimiento.java</file>
+            <file>file:/C:/Users/crise/Documents/ING_SISTEMAS/Progra%20IV/Primer%20entrgable/GestionInventario/src/clasesBase/Producto.java</file>
+            <file>file:/C:/Users/crise/Documents/ING_SISTEMAS/Progra%20IV/Primer%20entrgable/GestionInventario/src/clasesBase/Usuario.java</file>
+            <file>file:/C:/Users/crise/Documents/ING_SISTEMAS/Progra%20IV/Primer%20entrgable/GestionInventario/src/clasesBase/Notificacion.java</file>
+            <file>file:/C:/Users/crise/Documents/ING_SISTEMAS/Progra%20IV/Primer%20entrgable/GestionInventario/src/clasesBase/ReporteCSV.java</file>
+            <file>file:/C:/Users/crise/Documents/ING_SISTEMAS/Progra%20IV/Primer%20entrgable/GestionInventario/src/clasesBase/Pedido.java</file>
+            <file>file:/C:/Users/crise/Documents/ING_SISTEMAS/Progra%20IV/Primer%20entrgable/GestionInventario/src/clasesBase/Proveedor.java</file>
         </group>
     </open-files>
 </project-private>
